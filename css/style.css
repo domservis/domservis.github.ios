@@ -34,7 +34,7 @@ a:focus, a:hover {color: #fff;}
   #number{left: 30%;top: 0.1em;}
   #logo { width:30%; }
   #ptx {color: #fff;position: absolute;left: 1vh;top: 6vh;}
-  #a{padding-top: 0px;padding-right: 10px;}
+  #a{margin-top: -35px;margin-right: -10px;}
   #txu1{top: 96vh;}
 }
 
