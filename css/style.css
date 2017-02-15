@@ -12,7 +12,7 @@ body {
 
 
 a:focus, a:hover {color: #fff;}
-#number {position: absolute;font-weight:900;}
+#number {position: absolute;font-weight:900;color:#fff;}
 #a{ float: right;padding-top: 46px;padding-right: 30px;font-size: 4rem;color: #fff;}
 #ptx {color: #fff;position: absolute;left: 1.4vh;top: 8.5vh;}
 #cl {width:3em;}
@@ -31,7 +31,7 @@ a:focus, a:hover {color: #fff;}
 
 
 @media (max-width: 640px) {
-  #number{left: 30%;top: 0.1em;}
+  #number{left: 30%;top: 0.25em;}
   #logo { width:30%; }
   #ptx {color: #fff;position: absolute;left: 1vh;top: 6vh;}
   #a{margin-top: -35px;margin-right: -10px;}
