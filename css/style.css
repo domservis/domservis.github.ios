@@ -12,7 +12,7 @@ body {
 
 
 a:focus, a:hover {color: #fff;}
-#number {position: absolute;font-weight:900;color:#fff;}
+#number {position: absolute;font-weight:900;color:#fff;top:1.5em;}
 #a{ float: right;padding-top: 46px;padding-right: 30px;font-size: 4rem;color: #fff;}
 #ptx {color: #fff;position: absolute;left: 1.4vh;top: 8.5vh;}
 #cl {width:3em;}
